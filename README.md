@@ -5,24 +5,21 @@ To study and implement C++ program structure and understand the use of various d
 Tools Required:
 Visual Studio Code (VS Code)
 
-C++ Compiler (MinGW-w64 via MSYS2)
-
-Terminal / Command Prompt for compilation and execution
 
 Theory:
 In C++, data types are used to define the type of data a variable can hold. The fundamental data types include:
 
-int – integer values (e.g., 1, -5)
+1.int – integer values (e.g., 1, -5)
 
-float – floating point numbers (e.g., 3.14)
+2.float – floating point numbers (e.g., 3.14)
 
-double – double-precision floating point numbers
+3.double – double-precision floating point numbers
 
-char – single character (e.g., 'a', 'Z')
+4.char – single character (e.g., 'a', 'Z')
 
-bool – boolean values (true or false)
+5.bool – boolean values (true or false)
 
-string – sequence of characters (not a primitive type but commonly used via <string> library)
+6.string – sequence of characters (not a primitive type but commonly used via <string> library)
 
 A typical C++ program includes:
 
